@@ -2,8 +2,8 @@ import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
 
-import quizAdminRoutes from "./routes/.js";
-import signUpRoutes from "./routes/.js";
+// import  from "./routes/.js";
+// import  from "./routes/.js";
 
 const app = express();
 
