@@ -1,5 +1,5 @@
 import Navbar from "./Navbar";
-import styles from "../ComponentStyles/Subscriber.css";
+import  styles from "../ComponentStyles/Subscriber.css";
 
 function Subscriber() {
     return (
@@ -8,10 +8,10 @@ function Subscriber() {
             <div className ="subscriber">
                 <div class="number">4.8(41 Reviews)</div>
                 <div class="star">
-                    <img src="../images/star-images.png"/>
+                    <img src="./images/star-images.jpeg"/>
                 </div>
                 <div class="images">
-                        <img src="../images/img.jpg"/>
+                        <img src="./images/img.jpeg"/>
                 </div>
                 <div class="profile">
                     <button class="text-orange-500 hover:text-black">Edit Profile</button>
@@ -26,22 +26,22 @@ function Subscriber() {
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Deepti</p>
                             <p>Mobile no.</p>
                     </div>
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Deepti</p>
                             <p>Mobile no.</p>
                     </div>
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Deepti</p>
                             <p>Mobile no.</p>
                     </div>
                     <div class="box">
-                    <img src="../images/img1.jpg"/>
+                    <img src="../images/img1.jpeg"/>
                             <p>Deepti</p>
                             <p>Mobile no.</p>
                     </div>

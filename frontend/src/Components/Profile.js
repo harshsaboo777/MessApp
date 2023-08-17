@@ -3,11 +3,11 @@ import styles from "../ComponentStyles/Profile.css";
 
 function Profile() {
     return (
-        <div>
+        <div >
             <Navbar/>
-            <div>
+            <div className="bg-gray-100 dark:bg-gray-700 ">
                 <div class="images">
-                        <img src="../images/img.jpg"/>
+                        <img src="../images/img.jpeg"/>
                 </div>
                 <div class="profile">
                     <button class="text-orange-500 hover:text-black">Edit Profile</button>
@@ -20,24 +20,24 @@ function Profile() {
                 <div class="text3">
                     <button class="text-orange-500 hover:text-black">View All</button>
                 </div>
-                <div class="card">
+                <div class="card ">
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Prachi Mess</p>
                             <p>New Palasia</p>
                     </div>
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Upadhya Mess</p>
                             <p>Vallabh Nagar</p>
                     </div>
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Sharma Mess</p>
                             <p>Rani Sati</p>
                     </div>
                     <div class="box">
-                    <img src="../images/img1.webp"/>
+                    <img src="../images/img1.jpeg"/>
                         <p>Meenu Mess</p>
                         <p>AB Road</p>
                     </div>
@@ -50,22 +50,22 @@ function Profile() {
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Prachi Mess</p>
                             <p>New Palasia</p>
                     </div>
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Upadhaya Mess</p>
                             <p>Vallabh Nagar</p>
                     </div>
                     <div class="box">
-                        <img src="../images/img1.jpg"/>
+                        <img src="../images/img1.jpeg"/>
                             <p>Sharma Mess</p>
                             <p>Rani Sati</p>
                     </div>
                     <div class="box">
-                    <img src="../images/img1.jpg"/>
+                    <img src="../images/img1.jpeg"/>
                         <p>Meenu Mess</p>
                         <p>AB Road</p>
                     </div>
